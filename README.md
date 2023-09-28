@@ -1,2 +1,2 @@
 # OOP
-Team Work PRoject object oriented principles 
+Team Work Project object-oriented principles 
